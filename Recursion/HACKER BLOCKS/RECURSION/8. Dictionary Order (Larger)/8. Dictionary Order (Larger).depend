@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1595772445 source:d:\code blocks\online\recursion\hacker blocks\8. dictionary order (larger)\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<bits/stdc++.h>
+

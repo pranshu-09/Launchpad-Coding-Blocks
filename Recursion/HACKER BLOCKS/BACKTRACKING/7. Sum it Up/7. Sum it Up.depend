@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1595799781 source:d:\code blocks\online\recursion\hacker blocks\backtracking\7. sum it up\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<set>
+	<bits/stdc++.h>
+
