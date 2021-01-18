@@ -1,2 +1,2 @@
 # Launchpad-Coding-Blocks
-C++ Practise Problems
+C++ Practice Problems
